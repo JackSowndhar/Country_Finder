@@ -1,4 +1,4 @@
 - ## 🌟 Preview  
 
-✨ Check it out here → **[Weather App](https://sowndhar-country-finder.netlify.app/)**  
+✨ Check it out here → **[Country/State](https://sowndhar-country-finder.netlify.app/)**  
 
